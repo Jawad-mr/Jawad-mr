@@ -48,25 +48,22 @@
 ---
 
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/jawad-mr/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-</a>
-<a href="https://x.com/jawad____mr_" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="x" height="30" width="30" />
-</a>
-<a href="https://www.instagram.com/jawad____mr/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="30" />
-</a>
-</p>
-
----
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/Jawad-mr/Jawad-mr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center" style="margin-top: 20px;">
+  <h3 style="font-family: 'Trebuchet MS', sans-serif; font-size: 28px; font-weight: bold; letter-spacing: 2px; color: #333;">
+      CONNECT WITH ME
+  </h3>
+  <p>
+    <a href="https://www.linkedin.com/in/jawad-mr/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" style="margin: 0 10px;" />
+    </a>
+    <a href="https://x.com/jawad____mr_" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="x" height="40" width="40" style="margin: 0 10px;" />
+    </a>
+    <a href="https://www.instagram.com/jawad____mr/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" style="margin: 0 10px;" />
+    </a>
+  </p>
+</div>
 
 ---
 

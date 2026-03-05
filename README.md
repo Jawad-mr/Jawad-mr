@@ -33,17 +33,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawad-mr&show_icons=true&theme=tokyonight" alt="Jawad-mr" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawad-mr&theme=tokyonight" alt="Jawad-mr" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-mr&layout=compact&theme=tokyonight" alt="Jawad-mr" />
-</p>
+
 
 ---
 

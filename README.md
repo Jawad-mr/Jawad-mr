@@ -12,7 +12,7 @@ Full-Stack Developer • AI/ML Enthusiast • Building JSN CREATIVE
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an AI Engineering student building technology that solves real problems — from AI-driven products to full-stack platforms and business automation tools.
 
@@ -26,7 +26,7 @@ I'm the founder of **JSN CREATIVE**, a multi-arm venture spanning software devel
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - 🤖 AI-powered applications & agents
 - 🌐 Full-stack web development (MERN)
@@ -81,7 +81,7 @@ I'm the founder of **JSN CREATIVE**, a multi-arm venture spanning software devel
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 - 🤖 AI-powered applications and agents
 - 💼 Business automation & internal tools
@@ -95,20 +95,7 @@ I'm the founder of **JSN CREATIVE**, a multi-arm venture spanning software devel
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawad-mr&theme=tokyonight" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawad-mr&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-mr&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jawad-mr/" target="_blank">
@@ -127,10 +114,10 @@ I'm the founder of **JSN CREATIVE**, a multi-arm venture spanning software devel
 
 ---
 
-## 💡 Vision
+## Vision
 
 > Building technology that empowers businesses, simplifies everyday life, and creates meaningful digital experiences through software and AI.
 
 <p align="center">
-✨ <b>Always Learning • Always Building • Always Improving</b> 🚀
+✨ <b>Always Learning • Always Building • Always Improving</b> 
 </p>

@@ -1,38 +1,45 @@
-<h1 align="center">Hi 👋, I'm Muhammad Jawad MR</h1>
+<h1 align="center">Hi , I'm Muhammad Jawad MR</h1>
 <h3 align="center">
-Building AI-Powered Software • Full-Stack Developer • Tech Entrepreneur
+Full-Stack Developer • AI/ML Enthusiast • Building JSN CREATIVE
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jawad-mr&label=Profile%20Views&color=0e75b6&style=flat" alt="Jawad-mr" />
+  <img src="https://komarev.com/ghpvc/?username=Jawad-mr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/jawad-mr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about creating technology that solves real-world problems.
+I'm an AI Engineering student building technology that solves real problems — from AI-driven products to full-stack platforms and business automation tools.
 
-My interests span across Artificial Intelligence, Full-Stack Development, Cloud Computing, Automation, and Digital Products. I enjoy turning ideas into scalable applications while continuously exploring emerging technologies.
+I'm the founder of **JSN CREATIVE**, a multi-arm venture spanning software development, AI solutions, education, and creative services. Alongside that, I take on freelance and client work, and I'm always experimenting with new ideas at the intersection of AI and practical software.
 
-Alongside my technical journey, I'm building **JSN CREATIVE**, a technology-driven venture focused on software development, AI solutions, digital products, and creative services.
-
-### 🚀 Current Focus
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Web Development
-- 📱 Cross-Platform Application Development
-- ☁️ Cloud & Modern Deployment
-- ⚡ Automation & Productivity Tools
-- 📊 Data Science & Analytics
-- 🧠 System Design & Scalable Architecture
-- 🚀 Entrepreneurship & Product Building
+- 🎓 BTech Computer Science (Data Science, AI & ML specialization), Class of 2028
+- 🏢 Founder, **JSN CREATIVE**
+- 🌱 Currently deepening my work in AI/ML, full-stack development, and product design
+- 🗣️ Multilingual: English, Kannada, Hindi, Arabic
+- 📫 Reach me at the links below
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Current Focus
 
-### Programming Languages
+- 🤖 AI-powered applications & agents
+- 🌐 Full-stack web development (MERN)
+- 💼 Business automation & SaaS tools
+- 📊 Data science & analytics
+- 🎓 Educational technology
+- 🧠 System design & scalable architecture
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,93 +47,89 @@ Alongside my technical journey, I'm building **JSN CREATIVE**, a technology-driv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+**Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & Data
+**AI & Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools
+**Tools & Platforms**
 
-Git • GitHub • VS Code • Docker • Postman • Figma • Canva • Vercel • Render
-
----
-
-# 🚀 Projects
-
-I enjoy building projects around:
-
-- 🤖 AI Applications
-- 💼 Business Automation Software
-- 🌐 SaaS Platforms
-- 📱 Mobile & Web Applications
-- 🛒 E-commerce Systems
-- 📊 Dashboards
-- ⚙️ Productivity Tools
-- 🎓 Educational Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-# 📈 GitHub Stats
+## 🚀 What I Build
+
+- 🤖 AI-powered applications and agents
+- 💼 Business automation & internal tools
+- 🌐 SaaS platforms & web apps
+- 📱 Mobile & cross-platform applications
+- 🛒 E-commerce & POS systems
+- 📊 Dashboards & data tools
+- 🎓 Educational platforms
+
+*Pinned repos below showcase specific projects — check them out for details.*
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawad-mr&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawad-mr&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawad-mr&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-mr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jawad-mr&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-mr&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jawad-mr/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>
-
 <a href="https://x.com/jawad____mr_" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X (Twitter)" />
 </a>
-
 <a href="https://www.instagram.com/jawad____mr/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
 </a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:YOUR-EMAIL-HERE">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
 </a>
 </p>
 
 ---
 
-# 💡 Vision
+## 💡 Vision
 
-> Building technology that empowers businesses, simplifies everyday life, and creates meaningful digital experiences through software and artificial intelligence.
-
----
+> Building technology that empowers businesses, simplifies everyday life, and creates meaningful digital experiences through software and AI.
 
 <p align="center">
 ✨ <b>Always Learning • Always Building • Always Improving</b> 🚀

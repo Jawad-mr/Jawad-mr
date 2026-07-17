@@ -10,8 +10,6 @@ Full-Stack Developer • AI/ML Enthusiast • Building JSN CREATIVE
   </a>
 </p>
 
----
-
 ## About Me
 
 I'm an AI Engineering student and founder of **JSN CREATIVE**, building AI-powered products, full-stack applications, and business automation solutions. I also work on freelance projects, combining technology and creativity to solve real-world problems.
@@ -22,8 +20,6 @@ I'm an AI Engineering student and founder of **JSN CREATIVE**, building AI-power
 - 🗣️ Multilingual: English, Kannada, Hindi, Arabic
 - 📫 Reach me at the links below
 
----
-
 ## Current Focus
 
 - 🤖 AI-powered applications & agents
@@ -32,8 +28,6 @@ I'm an AI Engineering student and founder of **JSN CREATIVE**, building AI-power
 - 📊 Data science & analytics
 - 🎓 Educational technology
 - 🧠 System design & scalable architecture
-
----
 
 ## Tech Stack
 
@@ -52,8 +46,6 @@ I'm an AI Engineering student and founder of **JSN CREATIVE**, building AI-power
 **Mobile & Cross-Platform:** ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 
 **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
 
 ## What I Build
 
@@ -84,7 +76,6 @@ I'm an AI Engineering student and founder of **JSN CREATIVE**, building AI-power
 </a>
 </p>
 
----
 <p align="center">
 <b>Always Learning • Always Building • Always Improving</b> 
 </p>
